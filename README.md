@@ -16,7 +16,8 @@
 ## 2. Marco Teórico
   ## <p align=center> Materiales
  
-  ## <p align=center> Título 1
+  ## <p align=center> Teorema de Superposición
+![Teorema de Superposición](https://user-images.githubusercontent.com/93829976/147166679-429998fb-c5b1-4b8c-b5f4-388c9fc7a627.jpeg)
 
   ## <p align=center> Título 2
  

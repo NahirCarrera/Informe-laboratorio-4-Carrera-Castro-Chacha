@@ -46,8 +46,10 @@
  3) Hacer "cero" la fuente de voltaje V2 (12 V), medir el voltaje A y corrriente X y anotar los valores en las tablas 4.1 y 4.2
  ![image](https://user-images.githubusercontent.com/93786746/147161628-466cf935-9784-4461-b6a0-6f7e6252129e.png)
  _Ilustración 3. Medición de voltaje A y corriente X con fuente de voltaje V1 conectada_
- 4) .
- 5) .
+ 4) Hacer "cero" la fuente de voltaje V1 (20 V), medir el voltaje A y corrriente X y anotar los valores en las tablas 4.1 y 4.2
+ ![image](https://user-images.githubusercontent.com/93829962/147167300-6ac8b7a6-3e23-4f17-869d-96104bd02c6a.png)
+ _Ilustración 4. Medición de voltaje A y corriente X con fuente de voltaje V2 conectada_
+ 5) Verificar los resultados obtenidos del laboratorio virtual Tinkercad y compararlos con los resultados obtenidos analíticamente.
   ## Cálculos de Respaldo
   
 

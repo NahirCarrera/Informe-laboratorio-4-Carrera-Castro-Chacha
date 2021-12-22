@@ -32,15 +32,13 @@
   ## Procedimiento
  1) Armar el circuito que se muestra en la Figura 4.1 haciendo uso del Laboratorio virtual Tinkercad.
  ![image](https://user-images.githubusercontent.com/93786746/147158367-a7e4688a-8cb3-4ea6-8af5-230e9508d1d1.png)
- ![image](https://user-images.githubusercontent.com/93786746/147160230-f99be23a-fbfe-49f5-ba2d-076c74597891.png)
+![image](https://user-images.githubusercontent.com/93786746/147160518-5f1e9cb8-6b8a-4fcc-ae15-5ae644b0ffbb.png)
  _Ilustración 1. Circuito armado en Laboratotior virtual Tinkercad_
 
  
- 2)
-    
- 
-    
- _Ilustración 2. Título ilustración 1_
+ 2) Medir el voltaje A y corriente X con las dos fuentes conectadas y anotar los valores en la tabla 4.1 y 4.2. 
+ ![image](https://user-images.githubusercontent.com/93786746/147161042-3a7f360d-ce86-4c26-8a02-4d51c86c55d9.png)  
+ _Ilustración 2. Medición de voltaje A y corriente X con dos fuentes conectadas_
 
  
  _Ilustración 3. Título ilustración 2_

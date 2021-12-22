@@ -15,7 +15,7 @@
   * 
 ## 2. Marco Teórico
   ## <p align=center> Materiales
- 
+ ![Materiales ](https://user-images.githubusercontent.com/93829976/147167126-4f559097-fec2-4651-a848-73212d1951a8.jpeg)
   ## <p align=center> Teorema de Superposición
 ![Teorema de Superposición](https://user-images.githubusercontent.com/93829976/147166679-429998fb-c5b1-4b8c-b5f4-388c9fc7a627.jpeg)
 

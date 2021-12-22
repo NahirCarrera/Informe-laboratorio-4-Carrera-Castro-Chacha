@@ -46,18 +46,19 @@
     
  3) .
  4) .
- 5).
+ 5) .
   ## Cálculos de Respaldo
   
 
 ## 4. Respuesta a Interrogantes y cálculo de error
-Tabla 1.1 
+Tabla 4.1 
 
 
-_Tabla 1.2 
+Tabla 4.2 
 
+Tabla 4.3
     
-_Tabla 1.3 
+Tabla 4.4
 
 ## 5. Video
   * 

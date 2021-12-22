@@ -38,7 +38,7 @@
  
  2) Medir el voltaje A y corriente X con las dos fuentes conectadas y anotar los valores en las tablas 4.1 y 4.2. 
  ![image](https://user-images.githubusercontent.com/93786746/147161042-3a7f360d-ce86-4c26-8a02-4d51c86c55d9.png)  
- _Ilustración 2. Medición de voltaje A y corriente X con dos fuentes conectadas_
+ _Ilustración 2. Medición de voltaje A y corriente X con fuentes de voltaje V1 y V2 conectadas_
 
  
     

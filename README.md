@@ -36,14 +36,15 @@
  _Ilustración 1. Circuito armado en Laboratotior virtual Tinkercad_
 
  
- 2) Medir el voltaje A y corriente X con las dos fuentes conectadas y anotar los valores en la tabla 4.1 y 4.2. 
+ 2) Medir el voltaje A y corriente X con las dos fuentes conectadas y anotar los valores en las tablas 4.1 y 4.2. 
  ![image](https://user-images.githubusercontent.com/93786746/147161042-3a7f360d-ce86-4c26-8a02-4d51c86c55d9.png)  
  _Ilustración 2. Medición de voltaje A y corriente X con dos fuentes conectadas_
 
  
- _Ilustración 3. Título ilustración 2_
     
- 3) .
+ 3) Hacer "cero" la fuente de voltaje V2 (12 V), medir el voltaje A y corrriente X y anotar los valores en las tablas 4.1 y 4.2
+ ![image](https://user-images.githubusercontent.com/93786746/147161628-466cf935-9784-4461-b6a0-6f7e6252129e.png)
+ _Ilustración 3. Medición de voltaje A y corriente X con fuente de voltaje V1 conectada_
  4) .
  5) .
   ## Cálculos de Respaldo

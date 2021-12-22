@@ -30,19 +30,20 @@
  * 1 Resistor (470 Ohm)
  * 1 Protoboard
   ## Procedimiento
- 1) Armar el circuito que se muestra en la Figura 4.1.
+ 1) Armar el circuito que se muestra en la Figura 4.1 haciendo uso del Laboratorio virtual Tinkercad.
  ![image](https://user-images.githubusercontent.com/93786746/147158367-a7e4688a-8cb3-4ea6-8af5-230e9508d1d1.png)
- 
+ ![image](https://user-images.githubusercontent.com/93786746/147160230-f99be23a-fbfe-49f5-ba2d-076c74597891.png)
+ _Ilustración 1. Circuito armado en Laboratotior virtual Tinkercad_
 
  
  2)
     
  
     
- _Ilustración 1. Título ilustración 1_
+ _Ilustración 2. Título ilustración 1_
 
  
- _Ilustración 2. Título ilustración 2_
+ _Ilustración 3. Título ilustración 2_
     
  3) .
  4) .

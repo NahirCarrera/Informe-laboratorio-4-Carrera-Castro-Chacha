@@ -25,7 +25,7 @@
  * 2 Fuente de voltaje CD
  * 2 Multímetros Digitales
  * 1 Resistor (1 K Ohm)
- * 2 Resistores (2.2 K Ohm)
+ * 1 Resistores (2.2 K Ohm)
  * 1 Resistor (820 Ohm)
  * 1 Resistor (470 Ohm)
  * 1 Protoboard

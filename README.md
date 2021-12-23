@@ -50,7 +50,7 @@
  5) Verificar los resultados obtenidos del laboratorio virtual Tinkercad y compararlos con los resultados obtenidos analíticamente.
   ## Cálculos de Respaldo
   ### 1. Cuando se hace cero la fuente voltaje V2
-    
+   ![Dibujos](https://user-images.githubusercontent.com/93829976/147175398-bc990122-5745-4d0d-9a34-4c50be90fc91.jpeg)
   _Ilustración 5. Circuito rearmado remplazanado la fuente de voltaje V2 con su resistencia interna_
   
 ![image](https://user-images.githubusercontent.com/93786746/147172968-3e31e327-16d3-4d65-907f-c6b67395fcb9.png)

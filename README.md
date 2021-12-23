@@ -84,7 +84,7 @@ _Tabla 4.4 Cálculo de error de Corriente de resultados Analíticos - Simulados_
 ![image](https://user-images.githubusercontent.com/93829962/147173661-40289e53-f557-48b7-8649-1540da862db0.png)
 
 ## 5. Video
-  * 
+  * https://www.youtube.com/watch?v=6nHBAWtjvlU 
 ## 6. Conclusiones
   * Para finalizar, una vez realizada la práctica de laboratorio se concluye que el teorema de superposición es muy efectivo al momento de analizar circuitos que cuentan con más de una fuente de voltaje o de corriente, y en el caso de esta práctica se realizó el análisis de un circuito con dos fuentes de voltaje; y se obtuvo datos tanto simulados como analíticos. Los datos de simulación se obtuvieron al ejecutar el laboratorio de tinkercad y los datos analíticos se obtienen de manera aprendida en clase; sin embargo, para análisis de circuitos que sean muy complejos o posean muchas fuentes de voltaje o fuentes de corriente aplicar este método no resulta una forma eficiente.
   * Para el diseño de un circuito, el laboratorio virtual de Tinkercad resulta una herramienta útil y factible de usa; además realizar las respectivas simulaciones permite corroborar los resultados que se hayan calculado manualmente. En esta práctica de laboratorio, el error que existe para cada toma de datos es menor al 1% debido a que al realizar las simulaciones en el laboratorio de Tinkercad se obtienen datos ideales que son muy semejantes a los datos calculados de manera analítica.

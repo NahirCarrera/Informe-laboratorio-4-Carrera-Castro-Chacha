@@ -62,16 +62,20 @@
 ![image](https://user-images.githubusercontent.com/93786746/147173101-68273566-84f5-4c82-afe8-f0df8fa9053e.png)
 
 ## 4. Respuesta a Interrogantes y cálculo de error
-_Tabla 4.1 Medición de Voltaje aplicando superposición_ 
+_Tabla 4.1 Medición de Voltaje aplicando superposición_
+    
 ![image](https://user-images.githubusercontent.com/93829962/147173531-f514b6eb-7d5e-475f-ac1c-bf5ad36ade87.png)
 
 _Tabla 4.2 Medición de Corriente aplicando superposición_
+    
 ![image](https://user-images.githubusercontent.com/93829962/147173607-dc2c1c0c-77ae-4887-ac48-18928860fc82.png)
 
 _Tabla 4.3 Cálculo de error de Voltaje de resultados Analíticos - Simulados_
+    
 ![image](https://user-images.githubusercontent.com/93829962/147173646-9d310b36-52df-451f-9d80-c1d126205dfe.png)
 
 _Tabla 4.4 Cálculo de error de Corriente de resultados Analíticos - Simulados_
+    
 ![image](https://user-images.githubusercontent.com/93829962/147173661-40289e53-f557-48b7-8649-1540da862db0.png)
 
 ## 5. Video

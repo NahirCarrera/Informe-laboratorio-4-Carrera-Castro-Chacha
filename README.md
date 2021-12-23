@@ -49,7 +49,7 @@
  
  5) Verificar los resultados obtenidos del laboratorio virtual Tinkercad y compararlos con los resultados obtenidos analíticamente.
   ## Cálculos de Respaldo
-  ##1. Cuando se hace cero la fuente voltaje V1
+  ##1. Cuando se hace cero la fuente voltaje V2
     
 ![image](https://user-images.githubusercontent.com/93786746/147172968-3e31e327-16d3-4d65-907f-c6b67395fcb9.png)
 ![image](https://user-images.githubusercontent.com/93786746/147173047-299d94fd-0230-42e2-967a-d7bfbdf07bbe.png)

@@ -49,31 +49,34 @@
  
  5) Verificar los resultados obtenidos del laboratorio virtual Tinkercad y compararlos con los resultados obtenidos analíticamente.
   ## Cálculos de Respaldo
-  ## 1. Cuando se hace cero la fuente voltaje V2
+  ### 1. Cuando se hace cero la fuente voltaje V2
     
 ![image](https://user-images.githubusercontent.com/93786746/147172968-3e31e327-16d3-4d65-907f-c6b67395fcb9.png)
 ![image](https://user-images.githubusercontent.com/93786746/147173047-299d94fd-0230-42e2-967a-d7bfbdf07bbe.png)
   
-  ## 2. Cuando se hace cero la fuente voltaje V1
+  ### 2. Cuando se hace cero la fuente voltaje V1
 ![image](https://user-images.githubusercontent.com/93786746/147170291-939353e9-2997-43a5-b4be-0b49569a5555.png)
 ![image](https://user-images.githubusercontent.com/93786746/147173012-e6f312bb-3186-4240-a71e-28434f75c19c.png)
   
-  ## 3. Cálculo de Va e Ix total
+  ### 3. Cálculo de Va e Ix total
 ![image](https://user-images.githubusercontent.com/93786746/147173101-68273566-84f5-4c82-afe8-f0df8fa9053e.png)
 
 ## 4. Respuesta a Interrogantes y cálculo de error
 _Tabla 4.1 Medición de Voltaje aplicando superposición_ 
+![image](https://user-images.githubusercontent.com/93829962/147173531-f514b6eb-7d5e-475f-ac1c-bf5ad36ade87.png)
 
 _Tabla 4.2 Medición de Corriente aplicando superposición_
+![image](https://user-images.githubusercontent.com/93829962/147173607-dc2c1c0c-77ae-4887-ac48-18928860fc82.png)
 
 _Tabla 4.3 Cálculo de error de Voltaje de resultados Analíticos - Simulados_
-    
+![image](https://user-images.githubusercontent.com/93829962/147173646-9d310b36-52df-451f-9d80-c1d126205dfe.png)
+
 _Tabla 4.4 Cálculo de error de Corriente de resultados Analíticos - Simulados_
+![image](https://user-images.githubusercontent.com/93829962/147173661-40289e53-f557-48b7-8649-1540da862db0.png)
 
 ## 5. Video
   * 
 ## 6. Conclusiones
   * 
 ## 7. Bibliografía
- * Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos* II. La Habana: Pueblo y Educación.
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.

@@ -61,7 +61,7 @@
 _Ilustración 6. Circuito rearmado remplazanado la fuente de voltaje V1 con su resistencia interna_
     
 ![image](https://user-images.githubusercontent.com/93786746/147170291-939353e9-2997-43a5-b4be-0b49569a5555.png)
-![image](https://user-images.githubusercontent.com/93786746/147173012-e6f312bb-3186-4240-a71e-28434f75c19c.png)
+![image](https://user-images.githubusercontent.com/93786746/147184545-b84c5df3-e7df-43c5-8fbd-b2b4c90ba47f.png)
   
   ### 3. Cálculo de Va e Ix total
 ![image](https://user-images.githubusercontent.com/93786746/147173101-68273566-84f5-4c82-afe8-f0df8fa9053e.png)

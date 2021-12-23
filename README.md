@@ -54,7 +54,7 @@
   _Ilustración 5. Circuito rearmado remplazanado la fuente de voltaje V2 con su resistencia interna_
   
 ![image](https://user-images.githubusercontent.com/93786746/147172968-3e31e327-16d3-4d65-907f-c6b67395fcb9.png)
-![image](https://user-images.githubusercontent.com/93786746/147173047-299d94fd-0230-42e2-967a-d7bfbdf07bbe.png)
+![image](https://user-images.githubusercontent.com/93786746/147176894-ccea367c-f7a4-4e64-b260-a6207a43c177.png)
   
   ### 2. Cuando se hace cero la fuente voltaje V1
 ![Dibujos](https://user-images.githubusercontent.com/93829962/147175212-e76ee291-d50f-42fa-bdcb-de4dc3322f96.jpeg)

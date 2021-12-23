@@ -86,6 +86,6 @@ _Tabla 4.4 Cálculo de error de Corriente de resultados Analíticos - Simulados_
 ## 5. Video
   * 
 ## 6. Conclusiones
-  * 
+  * Para finalizar, una vez realizada la práctica de laboratorio se concluye que el teorema de superposición es muy efectivo al momento de analizar circuitos que cuentan con más de una fuente de voltaje o de corriente, y en el caso de esta práctica se realizó el análisis de un circuito con dos fuentes de voltaje; y se obtuvo datos tanto simulados como analíticos. Los datos de simulación se obtuvieron al ejecutar el laboratorio de tinkercad y los datos analíticos se obtienen de manera aprendida en clase; sin embargo, para análisis de circuitos que sean muy complejos o posean muchas fuentes de voltaje o fuentes de corriente aplicar este método no resulta un método eficiente.
 ## 7. Bibliografía
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.

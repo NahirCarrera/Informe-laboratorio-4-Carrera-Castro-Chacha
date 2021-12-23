@@ -49,7 +49,10 @@
  
  5) Verificar los resultados obtenidos del laboratorio virtual Tinkercad y compararlos con los resultados obtenidos analíticamente.
   ## Cálculos de Respaldo
-  
+      ### Cuando se hace cero la fuente voltaje V1
+![image](https://user-images.githubusercontent.com/93786746/147170291-939353e9-2997-43a5-b4be-0b49569a5555.png)
+![image](https://user-images.githubusercontent.com/93786746/147169739-a619c8e1-42e0-41d1-9d57-9c02ccb315a1.png)
+
 ## 4. Respuesta a Interrogantes y cálculo de error
 _Tabla 4.1 Medición de Voltaje aplicando superposición_ 
 

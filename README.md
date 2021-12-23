@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * 
+  * Aplicar los conceptos aprendidos con respecto al Teorema de Superposición para calcular los valores de voltaje y corriente a través de una carga en un ejercicio planteado.
   ### Específicos
-  * 
-  * 
-  * 
+  * Diseñar el circuito planteado haciendo uso del simulador Tinkercad para calcular los valores medidos de voltaje y corriente.
+  * Realizar ideogramas para mostrar la información correspondiente a los materiales utilizados en la práctica y al tema de Teorema de superposición. 
+  * Elaborar un archivo multimedia donde se incluya el desarrollo de los respectivos cálculos para hallar los valores medidos y calculados, así como también la respectiva simulación del circuito.
 ## 2. Marco Teórico
   ## <p align=center> Materiales
  ![Materiales ](https://user-images.githubusercontent.com/93829976/147167126-4f559097-fec2-4651-a848-73212d1951a8.jpeg)

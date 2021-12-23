@@ -51,10 +51,15 @@
   ## Cálculos de Respaldo
   ### 1. Cuando se hace cero la fuente voltaje V2
     
+  _Ilustración 5. Circuito rearmado remplazanado la fuente de voltaje V2 con su resistencia interna_
+  
 ![image](https://user-images.githubusercontent.com/93786746/147172968-3e31e327-16d3-4d65-907f-c6b67395fcb9.png)
 ![image](https://user-images.githubusercontent.com/93786746/147173047-299d94fd-0230-42e2-967a-d7bfbdf07bbe.png)
   
   ### 2. Cuando se hace cero la fuente voltaje V1
+![Dibujos](https://user-images.githubusercontent.com/93829962/147175212-e76ee291-d50f-42fa-bdcb-de4dc3322f96.jpeg)
+_Ilustración 6. Circuito rearmado remplazanado la fuente de voltaje V1 con su resistencia interna_
+    
 ![image](https://user-images.githubusercontent.com/93786746/147170291-939353e9-2997-43a5-b4be-0b49569a5555.png)
 ![image](https://user-images.githubusercontent.com/93786746/147173012-e6f312bb-3186-4240-a71e-28434f75c19c.png)
   
